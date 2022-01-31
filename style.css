@@ -30,6 +30,9 @@ article > p {
     text-align: left;
 }
 
+article > ul{
+  font-size: 1.2em;
+}
 
 
 a {
