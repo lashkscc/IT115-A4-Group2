@@ -14,13 +14,14 @@ header {
   max-width: 940px;
   margin: auto;
   font-family: Helvetica, Arial, sans-serif;
+  
 }
 
 h2 {   
-     font-family: Helvetica, Arial, sans-serif;
-     color: black;   
-     background-color: mediumaquamarine;
-  
+    font-family: Helvetica, Arial, sans-serif;
+    color: black;   
+    background-color: mediumaquamarine;
+
 }
 
 article > p {
@@ -59,9 +60,11 @@ img {
 
 #style_subheader {
   max-width: 1000px;
+  font-size: 1.5em;
   margin: auto;
-  padding: 30px 0px;
-  border-bottom: 1px solid #999;
+  padding: 15px 30px;
+  border-top: 3px solid seashell;
+  border-bottom: 3px solid #333;
   color: #333;
   font-family: Helvetica, Arial, sans-serif;
   background-color: lightgreen;
@@ -96,9 +99,23 @@ img {
 
 }
 
+#style_newContentTitle {
+  max-width: 1000px;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin: auto;
+  padding: 15px 30px;
+  border-top: 3px solid seashell;
+  border-bottom: 3px solid #333;
+  color: #333;
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: lightgreen;
+}
+
 image_col {
   float: left;
   width: 30%;
+  margin: 9px auto;
 }
 
 image_col > div {
