@@ -40,9 +40,14 @@ Header: Without Permanent Daylight Saving Time, there are increased rates of dis
 
 
 Resources:
-* https://www.almanac.com/content/when-daylight-saving-time
-*  https://crsreports.congress.gov/product/pdf/R/R45208/8 
-* https://news.northwestern.edu/stories/2021/11/setting-clocks-back-linked-to-more-car-accidents/&fj=1 
-* https://www.nbcchicago.com/news/local/how-daylight-saving-time-got-started/2666081/ 
-* https://www.treehugger.com/do-we-still-need-daylight-saving-time-4863800 
-* https://en.wikipedia.org/wiki/Permanent_time_observation_in_the_United_States#cite_note-VGA_2021-59
+* <a href="https://www.almanac.com/content/when-daylight-saving-time">Almanac: Daylight Saving Time 2022: When Does the Time Change?</a>
+
+* <a href="https://crsreports.congress.gov/product/pdf/R/R45208/8">Congressional Research Service: Daylight Saving Time (DST)</a>
+
+* <a href="https://news.northwestern.edu/stories/2021/11/setting-clocks-back-linked-to-more-car-accidents/&fj=1"> Northwestern Now: Setting Clocks Back Linked to Accidents</a>
+
+* <a href="https://www.nbcchicago.com/news/local/how-daylight-saving-time-got-started/2666081/">NBC Chicago: How Daylight Saving Time Got Started</a> 
+
+* <a href="https://www.treehugger.com/do-we-still-need-daylight-saving-time-4863800">Treehugger: Do We Still Need Daylight Saving Time?</a> 
+
+* <a href="https://en.wikipedia.org/wiki/Permanent_time_observation_in_the_United_States#cite_note-VGA_2021-59">Vermont General Assembly: H.168</a>
